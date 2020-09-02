@@ -1,5 +1,3 @@
-package src;
-
 /**
  * La classe qui représente les cartes
  * @author Cynthia
@@ -30,7 +28,7 @@ public class Carte {
     }
 
     /**
-     * Settet couleur
+     * Setter couleur
      * @param newCouleur
      */
     public void setCouleur(Couleur newCouleur) {
