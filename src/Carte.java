@@ -1,3 +1,5 @@
+package src;
+
 /**
  * La classe qui représente les cartes
  * @author Cynthia

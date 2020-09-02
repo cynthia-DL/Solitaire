@@ -24,4 +24,4 @@ run: default
 	java -cp $(CLASS) Main
 
 clean:
-	$(RM) $(CLASS)/*.class
+	$(RM) $(CLASS)/src/*.class
